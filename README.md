@@ -11,10 +11,15 @@ Co-routine re-entered recursively
 Aborted
 
 1.git clone the script to EVE-NG machine.
+
 2.Execute the Script
+
 3.sh commit.sh
+
 4.Enter POID
+
 5.Enter USERID
+
 6.Enter LAB ID.
 
 Here you go !

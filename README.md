@@ -43,5 +43,3 @@ root@eve-ng:/opt/unetlab/tmp/0/1989ae22-36da-4e64-8d3b-0f7a4f1557d5/1# /opt/qemu
 ![](https://raw.githubusercontent.com/f451ly2k/EVE-NG/master/capture.gif)
 
 Here you go !
-
-Please visit: http://youtube.com/f451ly2k

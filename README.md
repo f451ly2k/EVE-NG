@@ -1,13 +1,12 @@
-EVE-NG
 Eve-NG is a new generation software for networking lab. 
-This is the first clientless lab platform EVE-NG.
-Here am adding  the bash script to Modify Qemu base images and commit script with user input.
+
+This is the first clientless lab platform EVE-NG. Here am adding  the bash script to Modify Qemu base images and commit script with user input.
 
 You can run this script in eve-ng machine to create pre configured source images.
 
 Committing is the operation that changes  baseline is pretty useful in setting up preconfigured source images for nodes in the lab example Windows AD, Cisco ISE and Firewall other appliances.
 
-These takes time to reconfigure if it they are wiped. so you can do the config and commit it to setting up preconfigured sourec images.
+These takes time to reconfigure if it they are wiped. so you can do the config and commit it to setting up preconfigured source images.
 
 
 1.git clone the script to EVE-NG machine.

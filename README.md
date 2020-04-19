@@ -13,14 +13,6 @@ Sample Executing commit root@eve-ng:/opt/unetlab/tmp/0/1989ae22-36da-4e64-8d3b-0
 2.Execute the Script
 `chmod +x commit.sh && ./commit.sh`
 
-3.sh commit.sh
-
-4.Enter POID
-
-5.Enter USERID
-
-6.Enter LAB ID.
-
 Here you go !
 
 Please visit: http://youtube.com/f451ly2k
